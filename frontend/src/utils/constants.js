@@ -36,6 +36,6 @@ export const supportedChains = [
     disperseAddress: "0x04b2FA637e2f9028Ca675472734E239e69692fd4",
     blockExplorer:
       "https://testnet.arbiscan.io/",
-    name: "goerlyARB",
+    name: "goerly arb",
   },
 ];
